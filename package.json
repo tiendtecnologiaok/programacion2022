@@ -1,0 +1,27 @@
+{
+  "name": "programacion-backend-camila-leon",
+  "version": "1.0.0",
+  "main": "desafio-clase2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^5.0.0",
+    "express": "^4.17.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilaleonbackend/programacion-camila.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/camilaleonbackend/programacion-camila/issues"
+  },
+  "homepage": "https://github.com/camilaleonbackend/programacion-camila#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

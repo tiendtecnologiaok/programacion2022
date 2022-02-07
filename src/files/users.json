@@ -1,0 +1,23 @@
+[
+    {
+      "first_name":"camila",
+      "last_name":"leon",
+      "nationality":"argentina",
+      "favoritecolor":"bordo",
+      "id":1
+    },
+    {
+      "first_name":"belen",
+      "last_name":"leon",
+      "nationality":"argentina",
+      "favoritecolor":"azul",
+      "id":2
+    },
+    {
+      "first_name":"thais",
+      "last_name":"leon",
+      "nationality":"argentina",
+      "favoritecolor":"blanco",
+      "id":3
+    }
+  ]
